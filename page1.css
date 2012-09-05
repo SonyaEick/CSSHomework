@@ -1,0 +1,77 @@
+
+   h1 {color: #545454;
+   background-image: url(skel.png);
+   padding: 50px;
+   border: 3px solid #000000;
+   }
+
+   body {background-color: #eee9e9;
+   font-family: Georgia;
+   color: #8b8878;
+   word-spacing: 5px;
+   line-height: 16px;
+   background-image: url(skel.png);
+   background-repeat: no-repeat;
+   background-position: 50% 200px;
+   }
+
+   .one {font-weight: bold;
+   }
+   .two {font-style: italic;
+   }
+   .three {
+   color: brown;
+   }
+
+   #wash {
+   background-color: white;
+   border: 1px solid #000000;
+   width: 120px;
+   height: 30px;
+   position: absolute;
+   top: 410px;
+   left: 12%;
+   }
+
+   #hawaii {
+      background-color: white;
+   border: 1px solid #000000;
+   width: 120px;
+   height: 30px;
+   position: absolute;
+   top: 410px;
+   left: 75%;
+   }
+
+   span {
+   font-size: 25;
+   }
+
+   #fish {
+   border: 3px solid #000000;
+   width: 200px;
+   position: absolute;
+   left: 10%;
+   }
+
+   #rats {
+   border: 3px solid grey;
+   width: 200px;
+   position: absolute;
+   left: 43%;
+   }
+
+   #birds {
+   border: 3px solid tan;
+   width: 200px;
+   position: absolute;
+   left: 75%;
+   }
+
+   
+
+
+
+
+   
+
